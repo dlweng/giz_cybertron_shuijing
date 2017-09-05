@@ -1,0 +1,43 @@
+{
+    "app_id": "72e9bdefb4274ce7b76c6c44fb91cbc8",
+    "app_secret": "c57092c54ec1488d8d8faf438a0e29bc",
+    "product_key": "349ef2e202d84e5c8e71e74ac14924e5",
+    "product_secret": "04f49ac1b05e43f19c9b3cca6be82171",
+    "device_name": "机智云净水器",
+    "image": {
+        "guide": [
+            "guide1.png",
+            "guide2.png",
+            "guide3.png"
+        ],
+        "boot": "boot.png",
+        "login_logo": "login_logo.png",
+        "login_background": "login_background.png",
+        "add_device": "add_device.png",
+        "touch_device": "touch_device.png",
+        "device": "device.png"
+    },
+    "color": {
+        "login_text": "#FFFFFFFF",
+        "login_hint": "#B2FFFFFF",
+        "login_button_background": "#00FFFFFF",
+        "login_button_background_selected": "#FF78C9ED",
+        "login_button_background_frame": "#FFFFFFFF",
+        "login_button_text": "#FFFFFFFF",
+        "login_button_text_selected": "#FFFFFFFF",
+        "login_icon": "#FFFFFFFF",
+        "text": "#FFFFFFFF",
+        "hint": "#B2FFFFFF",
+        "background": "#FF78C9ED",
+        "button_background": "#FF78C9ED",
+        "button_background_selected": "#FFFFFFFF",
+        "button_background_frame": "#FFFFFFFF",
+        "button_text": "#FFFFFFFF",
+        "button_text_selected": "#FF78C9ED",
+        "icon": "#FFFFFFFF",
+        "navigationbar_text": "#FFFFFFFF",
+        "navigationbar_icon": "#FFFFFFFF",
+        "navigationbar_background": "#FF78C9ED"
+    }
+}
+      
